@@ -1,0 +1,17 @@
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/AccessibilityService.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/App/AppState.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/CaptureService.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/DashboardView.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/DatabaseService.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/EventDetailView.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/EventDetectionService.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/FrameDiffEngine.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/LLMService.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/MainView.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/MenuBarView.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/App/ScreenAgentApp.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Models/ScreenEvent.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/SearchView.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/SensitivityDetector.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/SettingsView.swift
+/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/StatusIndicatorView.swift

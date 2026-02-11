@@ -1,0 +1,178 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenAgent-master.dia",
+    "emit-module-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenAgent-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenAgent-master-emit-module.dia",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenAgent-master.swiftdeps"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/App/AppState.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AppState.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AppState.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AppState.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AppState.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AppState.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AppState.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AppState.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AppState~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/App/ScreenAgentApp.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenAgentApp.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenAgentApp.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenAgentApp.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenAgentApp.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenAgentApp.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenAgentApp.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenAgentApp.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenAgentApp~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Models/ScreenEvent.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenEvent.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenEvent.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenEvent.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenEvent.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenEvent.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenEvent.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenEvent.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/ScreenEvent~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/AccessibilityService.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AccessibilityService.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AccessibilityService.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AccessibilityService.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AccessibilityService.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AccessibilityService.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AccessibilityService.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AccessibilityService.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/AccessibilityService~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/CaptureService.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/CaptureService.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/CaptureService.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/CaptureService.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/CaptureService.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/CaptureService.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/CaptureService.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/CaptureService.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/CaptureService~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/DatabaseService.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DatabaseService.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DatabaseService.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DatabaseService.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DatabaseService.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DatabaseService.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DatabaseService.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DatabaseService.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DatabaseService~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/EventDetectionService.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetectionService.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetectionService.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetectionService.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetectionService.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetectionService.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetectionService.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetectionService.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetectionService~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/FrameDiffEngine.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/FrameDiffEngine.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/FrameDiffEngine.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/FrameDiffEngine.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/FrameDiffEngine.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/FrameDiffEngine.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/FrameDiffEngine.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/FrameDiffEngine.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/FrameDiffEngine~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/LLMService.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/LLMService.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/LLMService.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/LLMService.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/LLMService.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/LLMService.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/LLMService.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/LLMService.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/LLMService~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Services/SensitivityDetector.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SensitivityDetector.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SensitivityDetector.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SensitivityDetector.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SensitivityDetector.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SensitivityDetector.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SensitivityDetector.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SensitivityDetector.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SensitivityDetector~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/DashboardView.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DashboardView.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DashboardView.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DashboardView.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DashboardView.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DashboardView.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DashboardView.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DashboardView.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/DashboardView~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/EventDetailView.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetailView.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetailView.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetailView.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetailView.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetailView.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetailView.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetailView.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/EventDetailView~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/MainView.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MainView.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MainView.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MainView.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MainView.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MainView.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MainView.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MainView.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MainView~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/MenuBarView.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MenuBarView.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MenuBarView.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MenuBarView.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MenuBarView.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MenuBarView.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MenuBarView.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MenuBarView.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/MenuBarView~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/SearchView.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SearchView.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SearchView.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SearchView.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SearchView.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SearchView.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SearchView.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SearchView.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SearchView~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/SettingsView.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/hyeoks/Desktop/ScreenAgent/ScreenAgent/Views/StatusIndicatorView.swift" : {
+    "const-values" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/StatusIndicatorView.swiftconstvalues",
+    "dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/StatusIndicatorView.d",
+    "diagnostics" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/StatusIndicatorView.dia",
+    "index-unit-output-path" : "/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/StatusIndicatorView.o",
+    "llvm-bc" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/StatusIndicatorView.bc",
+    "object" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/StatusIndicatorView.o",
+    "swift-dependencies" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/StatusIndicatorView.swiftdeps",
+    "swiftmodule" : "/Users/hyeoks/Desktop/ScreenAgent/build/Build/Intermediates.noindex/ScreenAgent.build/Debug/ScreenAgent.build/Objects-normal/arm64/StatusIndicatorView~partial.swiftmodule"
+  }
+}
